@@ -4,7 +4,7 @@ With aging comes the loss of or degredation of sight. As the global population's
 
 ## Orientation Based System
 
-The system I am trying to come up with consists of both lines and dots. It uses the famous 6 dot Braille cell but it is *not* Braille therefore does not include any Braille symbols. It also uses a 7 line segment cell. The symbols (especially the letters) include both line segments and dots. The reason for this is to ease the finger into learning how to "orient" itself. A major flaw with Braille is confusion created from an exclusive dot system. For example d6[2] is the capital indicator and d3 is an apostrophe. The symbol for a is d1. The difference between the capital letter *A* (d6 d1) and *still* (d3d4) is the distance between the dots/ 
+The system I am trying to come up with consists of both lines and dots. It uses the famous 6 dot Braille cell but it is *not* Braille therefore does not include any Braille symbols. It also uses a 7 line segment cell. The symbols (especially the letters) include both line segments and dots. The reason for this is to ease the finger into learning how to "orient" itself. A major flaw with Braille is confusion created from an exclusive dot system. For example d6[2] is the capital indicator and d3 is an apostrophe. The symbol for a is d1. The difference between the capital letter *A* (d6 d1) and *still* (d3d4) is the distance between the dots.
 
 ### Footnotes
 
