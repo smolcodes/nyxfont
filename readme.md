@@ -8,6 +8,6 @@ The system I am trying to come up with consists of both lines and dots. It uses 
 
 ### Footnotes
 
-[1] I do not explain why literacy is important but while audio works just fine for creating laundry lists abd consuming media, it cannot label objects around the house. It also necessitates sound emitting from a device which may not always be desireable (consider giving a presentation). 
+[1] I do not explain why literacy is important but while audio works just fine for creating laundry lists and consuming media, it cannot label objects around the house. It also necessitates sound emitting from a device which may not always be desireable (consider giving a presentation). 
 
 [2] *d* stands for dots
