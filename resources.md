@@ -26,4 +26,6 @@ This font focuses too much on the sighted. The fact that it is based on the Roma
 
 * [Establishing a person-centred framework of self-identity after traumatic brain injury: a grounded theory study to inform measure development](https://bmjopen.bmj.com/content/bmjopen/4/5/e004630.full.pdf)
 * [Enablers and barriers encountered by working-age and older adults with vision impairment who pursue braille training](https://www.tandfonline.com/doi/pdf/10.1080/09638288.2020.1833253)
+* [Importance of Adult Literacy in Understanding Health Disparities](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1525-1497.2006.00538.x)
+* [Literacy Versus Language: Exploring their Similarities and Differences](https://web.unza.zm/index.php/jlt/article/download/61/58)
 
