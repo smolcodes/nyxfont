@@ -24,6 +24,7 @@ This font focuses too much on the sighted. The fact that it is based on the Roma
 * [Unicode Braille Patterns](http://www.unicode.org/charts/PDF/U2800.pdf)
 * [Unicode Character Table](https://unicode-table.com/en/blocks/braille-patterns/)
 * [Pharma Braille](https://www.pharmabraille.com/)
+* [THE INFLUENCE OF BRAILLE LITERACY PROGRAMME LENGTH ON FREQUENCY OF BRAILLE USAGE - in Crotia](https://hrcak.srce.hr/193750)
 
 ## Learning Theory
 
