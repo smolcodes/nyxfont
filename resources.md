@@ -3,12 +3,15 @@
 This is a log of resources used to create a tactile font
 
 ## Different Tactile Fonts
+* [Overview of Differsent Kinds of Tactile Fonts](https://www.nyise.org/apps/pages/index.jsp?uREC_ID=438103&type=d&pREC_ID=948713)
 
 * [Barbier Night](https://brailleworks.com/braille-resources/history-of-braille/)
 
 This font is based on French and has too many rows but you can clearly see how it is a predecessor to Braille.
 
 * [Moon Type](https://en.wikipedia.org/wiki/Moon_type)
+* * [Detailed explanation of MoonType](http://www.deafblind.com/moon.html)
+* * [Moon Project what it looks like in the world](https://www.behance.net/gallery/51421037/Moon-Type-for-the-Blind)
 
 This is just not very efficient and would be hard for a blind person to use to actually write with. It is really neat though and kind of looks like Egyptian Hieroglyphics.
 
